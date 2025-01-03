@@ -16,8 +16,11 @@ All the paper and it's link will be added here. And notes are in the files. Most
 - An Empirical Model of Large-Batch Training https://arxiv.org/pdf/1812.06162
 - Neural Turing Machines https://arxiv.org/pdf/1410.5401
 - Variational Lossy Autoencoder https://arxiv.org/pdf/1611.02731
-- 
-### Trendy
+
+### Interesting Ones
+
+
+### Others
 With notes:
 - Better & Faster Large Language Models via Multi-token Prediction https://arxiv.org/pdf/2404.19737
 - Large Concept Models: Language Modeling in a Sentence Representation Space https://arxiv.org/abs/2412.08821
