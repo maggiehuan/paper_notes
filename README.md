@@ -14,6 +14,8 @@ All the paper and it's link will be added here. And notes are in the files. Most
 ## Good Papers
 ### Nice "old"  paper
 - An Empirical Model of Large-Batch Training https://arxiv.org/pdf/1812.06162
+- Neural Turing Machines https://arxiv.org/pdf/1410.5401
+- Variational Lossy Autoencoder https://arxiv.org/pdf/1611.02731
 - 
 ### Trendy
 With notes:
