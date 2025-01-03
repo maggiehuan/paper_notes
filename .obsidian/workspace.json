@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expertise increases planning depth in human gameplay.md",
+                "file": "Planning/Expertise increases planning depth in human gameplay.md",
                 "mode": "source",
                 "source": false
               },
@@ -189,9 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8ed5d0e3f057e36",
+  "active": "0a41fdfbf60e21f7",
   "lastOpenFiles": [
-    "Expertise increases planning depth in human gameplay.md",
+    "ChessAI",
+    "Planning",
+    "Planning/Expertise increases planning depth in human gameplay.md",
     "README.md",
     "Welcome.md",
     "Untitled.canvas"
