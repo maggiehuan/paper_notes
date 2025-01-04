@@ -19,7 +19,7 @@ All the paper and it's link will be added here. And notes are in the files. Most
 
 ### Interesting Ones
 - Using games to understand the mind
-- 
+- People construct simplified mental representations to plan
 
 ### Others
 With notes:
