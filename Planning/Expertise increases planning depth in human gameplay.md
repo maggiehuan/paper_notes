@@ -18,3 +18,12 @@ Human planning: goal-directed decision-making -> plan along multiple branches in
 ### Computational cognitive model
 - using heuristic search
 	- heuristic function: maps board state to value estimation -> weighted linear combination of board features. 
+		- Value estimation: use BFS to iteratively expand nodes
+- prune branches with low heuristic value
+- add Gaussian noice and include feature dropout for modeling human selective attention
+	- randomly ignores feature instances from heuristic function
+
+### Model Validation
+- 40 human played games against other human player. estimate:
+	- model parameters using five-fold cross-validation
+	- out-of-sample choices with 40% acc
