@@ -27,3 +27,8 @@ Human planning: goal-directed decision-making -> plan along multiple branches in
 - 40 human played games against other human player. estimate:
 	- model parameters using five-fold cross-validation
 	- out-of-sample choices with 40% acc
+	- 22 alternate models
+	- used custom fitting methods on parameters
+	- **feature based value functions, tree search and attentional oversights are essential**
+- generalization on 40 participants 1. play against computer, 2. 2AFC two-alternative forced choice between moves in a given position and a board eval task.
+- turing test experiment
