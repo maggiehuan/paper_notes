@@ -17,4 +17,4 @@ Human planning: goal-directed decision-making -> plan along multiple branches in
 
 ### Computational cognitive model
 - using heuristic search
-	- heuristic function: m
+	- heuristic function: maps board state to value estimation -> weighted linear combination of board features. 
