@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7ff5ac28a576a5b9",
@@ -221,12 +222,12 @@
   "active": "af229b691ee82256",
   "lastOpenFiles": [
     "README.md",
-    "Good Papers/Neural Turing Machines.md",
     "Welcome.md",
+    "Planning/Expertise increases planning depth in human gameplay.md",
+    "Good Papers/Neural Turing Machines.md",
     "Untitled",
     "Good Papers",
     "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
-    "Planning/Expertise increases planning depth in human gameplay.md",
     "ChessAI",
     "Planning",
     "Untitled.canvas"

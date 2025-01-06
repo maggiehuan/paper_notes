@@ -11,4 +11,10 @@ Question: whether a skilled decision-maker plan more steps ahead. -> use model f
 Human planning: goal-directed decision-making -> plan along multiple branches in a decision-tree -> eliminate unpromising branches by pruning.
 - Human behavior consistent with planning several steps into the future.
 - Human use prospective info to guide current choices, locate the representation of prospective info to cingulate and prefrontal cortices.
-- 
+- Computation cognitive model for human decision-making
+- Validate using choice response time and eye movement data
+- Use the model to investigate nature of expertise in planning.
+
+### Computational cognitive model
+- using heuristic search
+	- heuristic function: m
