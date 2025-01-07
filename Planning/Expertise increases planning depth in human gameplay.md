@@ -48,3 +48,13 @@ Question: are there any models that combines search with attention? Feel like in
 ### Modeling
 Heuristic function + Tree search + Value function
 #### Value function
+Assume:
+- People use value func approximation
+- People's value func is a weighted sum of features
+Features:
+- centre
+- connected two-in-a-row
+- unconnected two-in-a-row
+- three-in-a-row
+- four-in-a-row
+- 
