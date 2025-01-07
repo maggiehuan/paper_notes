@@ -53,9 +53,11 @@ Assume:
 - People's value func is a weighted sum of features
 Features:
 - centre
-- connected two-in-a-row
-- unconnected two-in-a-row
-- three-in-a-row
-- four-in-a-row
+	- measures whose pieces are closer to the board center
+- Counts how often particular patterns occur on the board
+	- connected two-in-a-row
+	- unconnected two-in-a-row
+	- three-in-a-row
+	- four-in-a-row
 #### Tree Search
-Decision tree with an iterative best-first search algorithm. 
+Decision tree with an iterative best-first search algorithm. Each iteration, the algorithm selects a leaf node, expands it by adding one child node each for a number of candidate moves and backpropagates the value of these new nodes recursively into the leaf node as well as its parents.
