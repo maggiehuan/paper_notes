@@ -44,3 +44,5 @@ Question: what is heuristic quality and "adding features", does this mean: heuri
 - For chess and Go, 
 	%%For four-in-a-row, we found a small set of simple features that enable the model to explain people’s choices through manual exploration and model comparison. A promising feature-discovery approach for complex games would be to examine internal representations of neural networks trained to either play these games or predict human choices%%
 Question: are there any models that combines search with attention? Feel like in this paper both planning depth and attention is important. And for finding this heuristic function, " A promising feature-discovery approach for complex games would be to examine internal representations of neural networks trained to either play these games or predict human choices", this seems important, but I unfortunately did not understand what is phrase is talking about...
+
+### Modeling
