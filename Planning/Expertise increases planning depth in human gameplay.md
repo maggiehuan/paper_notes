@@ -57,4 +57,5 @@ Features:
 - unconnected two-in-a-row
 - three-in-a-row
 - four-in-a-row
-- 
+#### Tree Search
+Decision tree with an iterative best-first search algorithm. 
