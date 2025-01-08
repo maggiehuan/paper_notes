@@ -10,12 +10,16 @@ All the paper and it's link will be added here. And notes are in the files. Most
 3. Mastering Chess with a Transformer Model https://arxiv.org/pdf/2409.12272
 4. Evidence of Learned Look-Ahead in a Chess-Playing Neural Network https://arxiv.org/pdf/2406.00877v1
 5. Transcendence: Generative Models Can Outperform The Experts That Train Them https://arxiv.org/abs/2406.11741v3
+6. Grandmaster-Level Chess Without Search https://arxiv.org/pdf/2402.04494v1 
 
 ## Good Papers
 ### Nice "old"  paper
+#### Machine Learning
 - An Empirical Model of Large-Batch Training https://arxiv.org/pdf/1812.06162
 - Neural Turing Machines https://arxiv.org/pdf/1410.5401
 - Variational Lossy Auto-encoder https://arxiv.org/pdf/1611.02731
+#### NLP
+
 
 ### Interesting Ones
 - Using games to understand the mind
