@@ -19,6 +19,14 @@ All the paper and it's link will be added here. And notes are in the files. Most
 - Neural Turing Machines https://arxiv.org/pdf/1410.5401
 - Variational Lossy Auto-encoder https://arxiv.org/pdf/1611.02731
 #### NLP
+##### Early Systems
+- Understanding Natural Language https://www.sciencedirect.com/science/article/abs/pii/0010028572900023
+- 
+##### Language Models
+- Improving Neural Language Models with A Continuous Cache https://arxiv.org/pdf/1612.04426
+- Exploring the Limits of Language Modeling https://arxiv.org/pdf/1602.02410
+- Recurrent neural network based language model https://www.fit.vut.cz/research/group/speech/public/publi/2010/mikolov_interspeech2010_IS100722.pdf
+Attention, Intentions, and the Structure of Discourse https://aclanthology.org/J86-3001.pdf
 
 
 ### Interesting Ones
