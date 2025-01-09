@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Good Papers/Interesting Papers/Using games to understand the mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Using games to understand the mind"
             }
           }
         ]
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,12 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a41fdfbf60e21f7",
+  "active": "3cf2585e06e82beb",
   "lastOpenFiles": [
+    "Welcome.md",
     "README.md",
     "Good Papers/Interesting Papers/Using games to understand the mind.md",
     "Good Papers/Interesting Papers/People construct simplified mental representations to plan.md",
-    "Welcome.md",
     "Good Papers/Interesting Papers/Large Concept Models Language Modeling in a Sentence Representation Space.md",
     "Good Papers/Interesting Papers/Better & Faster Large Language Models via Multi-token Prediction.md",
     "ChessAI/Grandmaster-Level Chess Without Search.md",
