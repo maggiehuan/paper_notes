@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Good Papers/NLP/Attention, Intentions, and the Structure of Discourse.md",
+                "file": "Good Papers/Machine Learning/Neural Turing Machines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attention, Intentions, and the Structure of Discourse"
+              "title": "Neural Turing Machines"
             }
           },
           {
@@ -194,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,14 +208,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a41fdfbf60e21f7",
+  "active": "c5825d5b4c2ef915",
   "lastOpenFiles": [
-    "Good Papers/Machine Learning/Variational Lossy Auto-encoder.md",
-    "README.md",
     "Good Papers/Machine Learning/An Empirical Model of Large-Batch Training.md",
+    "Good Papers/NLP/Attention, Intentions, and the Structure of Discourse.md",
+    "README.md",
+    "Good Papers/Machine Learning/Variational Lossy Auto-encoder.md",
     "Good Papers/Machine Learning",
     "Good Papers/NLP/Understanding Natural Language.md",
-    "Good Papers/NLP/Attention, Intentions, and the Structure of Discourse.md",
     "Planning/Expertise increases planning depth in human gameplay.md",
     "Good Papers/NLP/Recurrent neural network based language model.md",
     "Good Papers/NLP/Exploring the Limits of Language Modeling.md",
