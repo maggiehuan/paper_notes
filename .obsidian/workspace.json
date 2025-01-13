@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChessAI/Mastering Chess with a Transformer Model.md",
+                "file": "ChessAI/Transcendence Generative Models Can Outperform The Experts That Train Them.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mastering Chess with a Transformer Model"
+              "title": "Transcendence Generative Models Can Outperform The Experts That Train Them"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "3cf2585e06e82beb",
   "lastOpenFiles": [
-    "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
     "ChessAI/Mastering Chess with a Transformer Model.md",
+    "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
     "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
     "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
     "ChessAI/Grandmaster-Level Chess Without Search.md",
