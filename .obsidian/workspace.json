@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
+                "file": "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evidence of Learned Look-Ahead in a Chess-Playing Neural Network"
+              "title": "Amortized Planning with Large-Scale Transformers A Case Study on Chess"
             }
           }
         ]
@@ -177,12 +177,12 @@
   },
   "active": "3cf2585e06e82beb",
   "lastOpenFiles": [
-    "ChessAI/Grandmaster-Level Chess Without Search.md",
-    "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
     "ChessAI/Transcendence Generative Models Can Outperform The Experts That Train Them.md",
-    "ChessAI/Mastering Chess with a Transformer Model.md",
-    "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
     "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
+    "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
+    "ChessAI/Mastering Chess with a Transformer Model.md",
+    "ChessAI/Grandmaster-Level Chess Without Search.md",
+    "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
     "Good Papers/Interesting Papers/Using games to understand the mind.md",
     "Welcome.md",
     "README.md",
