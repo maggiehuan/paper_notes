@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Planning/Expertise increases planning depth in human gameplay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Expertise increases planning depth in human gameplay"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7ff5ac28a576a5b9",
@@ -176,8 +177,8 @@
   },
   "active": "3cf2585e06e82beb",
   "lastOpenFiles": [
-    "ChessAI/Mastering Chess with a Transformer Model.md",
     "README.md",
+    "ChessAI/Mastering Chess with a Transformer Model.md",
     "Welcome.md",
     "create a link.md",
     "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
