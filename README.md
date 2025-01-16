@@ -39,3 +39,5 @@ With notes:
 - Large Concept Models: Language Modeling in a Sentence Representation Space https://arxiv.org/abs/2412.08821
 W/o notes:
 
+### Readings for CIS 6300
+It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners 

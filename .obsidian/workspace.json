@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Expertise increases planning depth in human gameplay.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expertise increases planning depth in human gameplay"
+              "title": "README"
+            }
+          },
+          {
+            "id": "5684bbe1bf8493cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Good Papers/CIS6300/It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7ff5ac28a576a5b9",
@@ -175,11 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cf2585e06e82beb",
+  "active": "0a41fdfbf60e21f7",
   "lastOpenFiles": [
     "README.md",
-    "ChessAI/Mastering Chess with a Transformer Model.md",
+    "Good Papers/CIS6300/It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners.md",
     "Welcome.md",
+    "Good Papers/Interesting Papers/Better & Faster Large Language Models via Multi-token Prediction.md",
+    "Good Papers/CIS6300",
+    "Planning/Expertise increases planning depth in human gameplay.md",
+    "ChessAI/Mastering Chess with a Transformer Model.md",
     "create a link.md",
     "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
     "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
@@ -189,7 +207,6 @@
     "Good Papers/Interesting Papers/Using games to understand the mind.md",
     "Good Papers/Interesting Papers/People construct simplified mental representations to plan.md",
     "Good Papers/Interesting Papers/Large Concept Models Language Modeling in a Sentence Representation Space.md",
-    "Good Papers/Interesting Papers/Better & Faster Large Language Models via Multi-token Prediction.md",
     "Good Papers/Interesting Papers",
     "Good Papers/Machine Learning/Neural Turing Machines.md",
     "Good Papers/Machine Learning/An Empirical Model of Large-Batch Training.md",
@@ -197,7 +214,6 @@
     "Good Papers/Machine Learning/Variational Lossy Auto-encoder.md",
     "Good Papers/Machine Learning",
     "Good Papers/NLP/Understanding Natural Language.md",
-    "Planning/Expertise increases planning depth in human gameplay.md",
     "Good Papers/NLP/Recurrent neural network based language model.md",
     "Good Papers/NLP/Exploring the Limits of Language Modeling.md",
     "Good Papers/NLP/Improving Neural Language Models with A Continuous Cache.md",
