@@ -11,6 +11,8 @@ All the paper and it's link will be added here. And notes are in the files. Most
 4. [[Evidence of Learned Look-Ahead in a Chess-Playing Neural Network]] https://arxiv.org/pdf/2406.00877v1
 5. [[Transcendence Generative Models Can Outperform The Experts That Train Them]] https://arxiv.org/abs/2406.11741v3
 6. [[Grandmaster-Level Chess Without Search]] https://arxiv.org/pdf/2402.04494v1 
+7. Skill in Chess https://iiif.library.cmu.edu/file/Simon_box00066_fld05052_bdl0001_doc0001/Simon_box00066_fld05052_bdl0001_doc0001.pdf
+8. 
 
 ## Good Papers
 ### Nice "old"  paper
