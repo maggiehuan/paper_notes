@@ -13,3 +13,7 @@
 
 
 Axis of Variation
+Pre-training Data
+- high qual
+- quantity
+
