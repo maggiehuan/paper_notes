@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChessAI/Skill in Chess.md",
+                "file": "Good Papers/CIS6300/It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skill in Chess"
+              "title": "It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners"
             }
           }
         ],
@@ -217,13 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a41fdfbf60e21f7",
+  "active": "753e972ecf7dd339",
   "lastOpenFiles": [
+    "Good Papers/CIS6300/Language Models are Few-Shot Learners.md",
+    "Good Papers/CIS6300/It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners.md",
     "README.md",
     "ChessAI/Skill in Chess.md",
-    "Good Papers/CIS6300/Language Models are Few-Shot Learners.md",
     "Welcome.md",
-    "Good Papers/CIS6300/It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners.md",
     "Good Papers/Interesting Papers/Better & Faster Large Language Models via Multi-token Prediction.md",
     "Good Papers/CIS6300",
     "Planning/Expertise increases planning depth in human gameplay.md",
