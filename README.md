@@ -44,5 +44,5 @@ W/o notes:
 ### Readings for CIS 6300
 - It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners https://arxiv.org/pdf/2009.07118
 - Language Models are Few-Shot Learners https://arxiv.org/abs/2005.14165
-- 
+- How Many Data Points is a Prompt Worth? https://arxiv.org/abs/2103.08493
 
