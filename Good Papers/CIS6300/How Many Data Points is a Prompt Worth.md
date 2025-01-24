@@ -1,4 +1,7 @@
 ### Thoughts:
+
+
+### Summarized by AI
 This paper investigates the benefits of using prompts when fine-tuning pre-trained models for classification tasks. The authors compare the performance of models that use task-specific prompts with those that use a generic classifier head, in a variety of tasks and data sizes. The research aims to quantify the advantage of using prompts in terms of how much additional training data would be needed to achieve comparable performance without prompts.
 
 
