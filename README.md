@@ -1,5 +1,5 @@
 # This is Maggie's paper reading list. 
-All the paper and it's link will be added here. And notes are in the files. Most papers are project-related, some might be interest-based or nice/trendy paper that I enjoyed. 
+All the paper and its link will be added here. And notes are in the files. Most papers are project-related, some might be interest-based or nice/trendy paper that I enjoyed. 
 
 ## Planning - from Jan 1, 2025
 1. Expertise increases planning depth in human gameplay https://www.nature.com/articles/s41586-023-06124-2 [[Expertise increases planning depth in human gameplay]]
@@ -39,6 +39,7 @@ Attention, Intentions, and the Structure of Discourse https://aclanthology.org/J
 With notes:
 - Better & Faster Large Language Models via Multi-token Prediction https://arxiv.org/pdf/2404.19737
 - Large Concept Models: Language Modeling in a Sentence Representation Space https://arxiv.org/abs/2412.08821
+- 
 W/o notes:
 
 ### Readings for CIS 6300
