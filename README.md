@@ -28,7 +28,7 @@ All the paper and its link will be added here. And notes are in the files. Most 
 - Improving Neural Language Models with A Continuous Cache https://arxiv.org/pdf/1612.04426
 - Exploring the Limits of Language Modeling https://arxiv.org/pdf/1602.02410
 - Recurrent neural network based language model https://www.fit.vut.cz/research/group/speech/public/publi/2010/mikolov_interspeech2010_IS100722.pdf
-Attention, Intentions, and the Structure of Discourse https://aclanthology.org/J86-3001.pdf
+- Attention, Intentions, and the Structure of Discourse https://aclanthology.org/J86-3001.pdf
 
 
 ### Interesting Ones
