@@ -35,7 +35,8 @@
               "title": "How Many Data Points is a Prompt Worth"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "753e972ecf7dd339",
+  "active": "dcfedd598a11ba8c",
   "lastOpenFiles": [
-    "Good Papers/CIS6300/How Many Data Points is a Prompt Worth.md",
     "README.md",
+    "Good Papers/CIS6300/How Many Data Points is a Prompt Worth.md",
     "Good Papers/CIS6300/It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners.md",
     "Good Papers/CIS6300/Language Models are Few-Shot Learners.md",
     "ChessAI/Skill in Chess.md",
