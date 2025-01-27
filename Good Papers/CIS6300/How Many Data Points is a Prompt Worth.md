@@ -1,4 +1,13 @@
 ### Thoughts:
+##### brief summary
+
+##### influential part
+
+##### do better?
+
+##### discussion?
+
+
 
 
 ### Summarization
