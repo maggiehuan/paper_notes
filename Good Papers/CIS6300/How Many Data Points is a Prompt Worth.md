@@ -2,11 +2,11 @@
 ##### brief summary
 This paper looks into the problem of dealing with low data problem by comparing between using prompts and head-based SFT in equal setting to check how prompt can be helpful. They found that quantitively worth 100s of data points on classification tasks and proofed with a bunch of tasks to . 
 ##### influential part
-It is very critical to know quantitively or scientifically how prompts can help LLMs or how their 
+It is very critical to know quantitively or scientifically how prompts can help LLMs' performance and how each kind of prompts can help since everyone 'feels' that prompt is injecting information but don't know exactly how. 
 ##### do better?
-
+I'm actually a bit confused why they used head-only finetuning. If we use more advanced SFT methods would the conclusion be that prompting is only help LMs to identify and focus on one domain (or the context) so that they don't need to search all over it's parameters? 
 ##### discussion?
-
+I am also interested in how AI generated prompts would work differently than human written prompts. If they can work well then is it make sense to prompt a model to prompt a model? Like using a small LM to prompt a big one, and if the human given prompt can be a fixed one, then the systems seems more "automatic" with very little cost (running small models might be much cheaper than human)
 
 
 
