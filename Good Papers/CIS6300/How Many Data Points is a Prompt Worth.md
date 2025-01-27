@@ -1,6 +1,6 @@
 ### Thoughts:
 ##### brief summary
-
+This paper looks into the problem of dealing with low data problem by comparing between using prompts and head-based SFT in equal setting to check whether prompt can quantitively worth 100s of data points on classification tasks.
 ##### influential part
 
 ##### do better?
