@@ -1,8 +1,8 @@
 ### Thoughts:
 ##### brief summary
-This paper looks into the problem of dealing with low data problem by comparing between using prompts and head-based SFT in equal setting to check whether prompt can quantitively worth 100s of data points on classification tasks.
+This paper looks into the problem of dealing with low data problem by comparing between using prompts and head-based SFT in equal setting to check how prompt can be helpful. They found that quantitively worth 100s of data points on classification tasks and proofed with a bunch of tasks to . 
 ##### influential part
-
+It is very critical to know quantitively or scientifically how prompts can help LLMs or how their 
 ##### do better?
 
 ##### discussion?
