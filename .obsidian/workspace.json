@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7ff5ac28a576a5b9",
@@ -160,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a41fdfbf60e21f7",
+  "active": "20799ff42fb46975",
   "lastOpenFiles": [
     "Good Papers/CIS6300/Rethinking the Role of Demonstrations What Makes In-Context Learning Work?.md",
     "Good Papers/CIS6300/How Many Data Points is a Prompt Worth.md",
