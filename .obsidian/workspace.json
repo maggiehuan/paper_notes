@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20799ff42fb46975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Good Papers/CIS6300/How Many Data Points is a Prompt Worth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How Many Data Points is a Prompt Worth"
-            }
-          },
-          {
-            "id": "ec86a8a5c9007272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Good Papers/CIS6300/Rethinking the Role of Demonstrations What Makes In-Context Learning Work?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rethinking the Role of Demonstrations What Makes In-Context Learning Work?"
-            }
-          },
-          {
             "id": "ca09b1b7c4f069ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Larger language models do in-context learning differently"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,24 +177,24 @@
   "active": "ca09b1b7c4f069ed",
   "lastOpenFiles": [
     "ChessAI/Complete Chess Games Enable LLM Become A Chess Master.md",
-    "Good Papers/CIS6300/Rethinking the Role of Demonstrations What Makes In-Context Learning Work?.md",
+    "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
+    "ChessAI/Grandmaster-Level Chess Without Search.md",
+    "ChessAI/Mastering Chess with a Transformer Model.md",
+    "ChessAI/Skill in Chess.md",
+    "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
+    "ChessAI/Transcendence Generative Models Can Outperform The Experts That Train Them.md",
     "README.md",
-    "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
     "Good Papers/CIS6300/How Many Data Points is a Prompt Worth.md",
+    "Good Papers/CIS6300/Rethinking the Role of Demonstrations What Makes In-Context Learning Work?.md",
+    "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
     "Good Papers/CIS6300/It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners.md",
     "Good Papers/CIS6300/Language Models are Few-Shot Learners.md",
-    "ChessAI/Skill in Chess.md",
     "Welcome.md",
     "Good Papers/Interesting Papers/Better & Faster Large Language Models via Multi-token Prediction.md",
     "Good Papers/CIS6300",
     "Planning/Expertise increases planning depth in human gameplay.md",
-    "ChessAI/Mastering Chess with a Transformer Model.md",
     "create a link.md",
-    "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
     "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
-    "ChessAI/Grandmaster-Level Chess Without Search.md",
-    "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
-    "ChessAI/Transcendence Generative Models Can Outperform The Experts That Train Them.md",
     "Good Papers/Interesting Papers/Using games to understand the mind.md",
     "Good Papers/Interesting Papers/People construct simplified mental representations to plan.md",
     "Good Papers/Interesting Papers/Large Concept Models Language Modeling in a Sentence Representation Space.md",
