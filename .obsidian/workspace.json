@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
+                "file": "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Larger language models do in-context learning differently"
+              "title": "ChessGPT Bridging Policy Learning and Language Modeling"
             }
           },
           {
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +191,9 @@
   },
   "active": "ca09b1b7c4f069ed",
   "lastOpenFiles": [
-    "README.md",
-    "ChessAI/ChessGPT Bridging Policy Learning andLanguage Modeling.md",
     "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
+    "README.md",
+    "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
     "ChessAI/Complete Chess Games Enable LLM Become A Chess Master.md",
     "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
     "ChessAI/Grandmaster-Level Chess Without Search.md",
