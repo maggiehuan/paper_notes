@@ -13,6 +13,7 @@ All the paper and its link will be added here. And notes are in the files. Most 
 6. [[Grandmaster-Level Chess Without Search]] https://arxiv.org/pdf/2402.04494v1 
 7. Skill in Chess https://iiif.library.cmu.edu/file/Simon_box00066_fld05052_bdl0001_doc0001/Simon_box00066_fld05052_bdl0001_doc0001.pdf
 8. Complete Chess Games Enable LLM Become A Chess Master https://arxiv.org/pdf/2501.17186 
+9. ChessGPT: Bridging Policy Learning and Language Modeling 
 
 ## Good Papers
 ### Nice "old"  paper
