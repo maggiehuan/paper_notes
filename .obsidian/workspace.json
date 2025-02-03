@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
+                "file": "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChessGPT Bridging Policy Learning and Language Modeling"
+              "title": "The Chess Transformer Mastering Play using Generative Language Models"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7ff5ac28a576a5b9",
@@ -176,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,15 +192,16 @@
   },
   "active": "47978ad925f6c5a4",
   "lastOpenFiles": [
-    "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
-    "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
-    "README.md",
-    "ChessAI/Complete Chess Games Enable LLM Become A Chess Master.md",
-    "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
-    "ChessAI/Grandmaster-Level Chess Without Search.md",
+    "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
     "ChessAI/Mastering Chess with a Transformer Model.md",
     "ChessAI/Skill in Chess.md",
-    "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
+    "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
+    "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
+    "ChessAI/Complete Chess Games Enable LLM Become A Chess Master.md",
+    "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
+    "README.md",
+    "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
+    "ChessAI/Grandmaster-Level Chess Without Search.md",
     "ChessAI/Transcendence Generative Models Can Outperform The Experts That Train Them.md",
     "Good Papers/CIS6300/How Many Data Points is a Prompt Worth.md",
     "Good Papers/CIS6300/Rethinking the Role of Demonstrations What Makes In-Context Learning Work?.md",
@@ -211,7 +212,6 @@
     "Good Papers/CIS6300",
     "Planning/Expertise increases planning depth in human gameplay.md",
     "create a link.md",
-    "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
     "Good Papers/Interesting Papers/Using games to understand the mind.md",
     "Good Papers/Interesting Papers/People construct simplified mental representations to plan.md",
     "Good Papers/Interesting Papers/Large Concept Models Language Modeling in a Sentence Representation Space.md",
