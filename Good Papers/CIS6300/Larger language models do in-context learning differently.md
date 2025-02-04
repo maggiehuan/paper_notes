@@ -7,3 +7,4 @@ The most influential part might be that the scale of the model actually changes 
 ### improvements?
 The scaling part seems to be a part of the paper, but is actually interesting. It would be nice if they check how big and small models deal with priors with a few experiments on which part of semantic priors big models succeed to override but small models don't might be interesting. It might be fun to check whether these priors are in the pretraining data of the large models and not covered by the smaller models.
 ### discussion?
+The part where they claim that large models can do logical symbolic reasoning is interesting. Despite the potential that there might be data in pretraining that result this, why would scaling helps reasoning??
