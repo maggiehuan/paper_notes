@@ -50,5 +50,5 @@ W/o notes:
 - How Many Data Points is a Prompt Worth? https://arxiv.org/abs/2103.08493
 - Rethinking the Role of Demonstrations What Makes In-Context Learning Work? https://arxiv.org/abs/2202.12837
 - Larger language models do in-context learning differently https://arxiv.org/abs/2303.03846
-- 
+- s1: Simple test-time scaling https://arxiv.org/pdf/2501.19393
 
