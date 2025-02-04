@@ -36,6 +36,7 @@ All the paper and its link will be added here. And notes are in the files. Most 
 ### Interesting Ones
 - Using games to understand the mind
 - People construct simplified mental representations to plan
+- s1 Simple test-time scaling https://arxiv.org/pdf/2501.19393
 
 ### Others
 With notes:
