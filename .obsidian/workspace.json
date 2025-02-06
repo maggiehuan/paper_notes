@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7ff5ac28a576a5b9",
@@ -203,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69b17f7aa4a827d3",
+  "active": "eca5ca9ce9fdf3b9",
   "lastOpenFiles": [
     "Good Papers/CIS6300/Rethinking the Role of Demonstrations What Makes In-Context Learning Work?.md",
     "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
