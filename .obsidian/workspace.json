@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eca5ca9ce9fdf3b9",
+  "active": "b2492657fa63ab1f",
   "lastOpenFiles": [
     "Good Papers/CIS6300/LIMA Less Is More for Alignment.md",
     "Good Papers/CIS6300/Scaling Data-Constrained Language Models.md",
