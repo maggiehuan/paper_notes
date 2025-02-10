@@ -7,3 +7,8 @@ The problem and perspective they proposed are very interesting and nice, especia
 ### discussion?
 The perspective of "how data repetition may influence training in large models" is interesting. Are there any better ways to re-use this repetitions in training that can help boost performance? During the training process, some part of the data should be already learnt by models and adding them for training again may not be useful (from intuition). Curious whether this can help the problem of data scarcity.
 
+function fitness?? compute residuals, 
+repeating data
+complex functional bla? test laws? at loss
+
+scaling data vs delibrated/well-selected data??
