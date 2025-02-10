@@ -11,4 +11,5 @@ function fitness?? compute residuals,
 repeating data
 complex functional bla? test laws? at loss
 
+function form
 scaling data vs delibrated/well-selected data??
