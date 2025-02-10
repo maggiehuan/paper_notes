@@ -1,5 +1,5 @@
 ### brief summary
-This paper 
+This paper investigated several methods
 ### influential part
 
 ### improvements?
