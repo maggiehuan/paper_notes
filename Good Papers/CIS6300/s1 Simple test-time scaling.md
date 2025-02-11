@@ -1,5 +1,6 @@
 ### Methods
-Main Takeaway here
+Main Takeaway here:
+
 
 
 This paper introduces a simple method for achieving test-time scaling and strong reasoning performance in language models. The approach involves curating a small dataset of 1,000 questions with reasoning traces, and using budget forcing to control test-time compute.
