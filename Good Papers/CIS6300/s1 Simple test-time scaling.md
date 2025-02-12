@@ -8,7 +8,7 @@ This paper introduces a simple method for achieving test-time scaling and strong
 **Key Concepts and Methods:**
 
 - **Test-time scaling:** This refers to the idea of increasing compute during the testing phase to improve model performance.
-- **s1K dataset:** A dataset of 1,000 questions paired with reasoning traces that are carefully selected for difficulty, diversity, and quality. The questions come from diverse sources, including math problems, Olympiad questions, and brain teasers. The dataset is created by first collecting 59,000 questions and then filtering down based on quality, difficulty and diversity.
+- **s1K dataset:** A dataset of 1,000 questions paired with reasoning traces that are carefully selected for difficulty, diversity, and quality. The questions come from diverse source s, including math problems, Olympiad questions, and brain teasers. The dataset is created by first collecting 59,000 questions and then filtering down based on quality, difficulty and diversity.
     - **Quality**: The dataset is filtered to remove questions with API errors or formatting issues.
     - **Difficulty**: Questions that can be easily solved by smaller models are removed.
     - **Diversity**: The questions are classified into different domains using the Mathematics Subject Classification (MSC) system, and the final 1,000 samples are chosen to span 50 different domains.
