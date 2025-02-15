@@ -54,5 +54,6 @@ W/o notes:
 - s1: Simple test-time scaling https://arxiv.org/pdf/2501.19393
 - LIMA: Less Is More for Alignment https://arxiv.org/abs/2305.11206
 - Scaling Data-Constrained Language Models https://arxiv.org/pdf/2305.16264
+- DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning  https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
 - 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Good Papers/CIS6300/s1 Simple test-time scaling.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s1 Simple test-time scaling"
+              "title": "README"
             }
           }
         ]
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +177,7 @@
   },
   "active": "b2492657fa63ab1f",
   "lastOpenFiles": [
+    "Good Papers/CIS6300/s1 Simple test-time scaling.md",
     "README.md",
     "Welcome.md",
     "ChessAI/Transcendence Generative Models Can Outperform The Experts That Train Them.md",
@@ -191,7 +191,6 @@
     "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
     "Good Papers/CIS6300/Scaling Data-Constrained Language Models.md",
     "Good Papers/CIS6300/LIMA Less Is More for Alignment.md",
-    "Good Papers/CIS6300/s1 Simple test-time scaling.md",
     "Good Papers/CIS6300/Rethinking the Role of Demonstrations What Makes In-Context Learning Work?.md",
     "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
     "Good Papers/CIS6300/How Many Data Points is a Prompt Worth.md",
