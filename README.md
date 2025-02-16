@@ -15,6 +15,8 @@ All the paper and its link will be added here. And notes are in the files. Most 
 8. Complete Chess Games Enable LLM Become A Chess Master https://arxiv.org/pdf/2501.17186 
 9. ChessGPT: Bridging Policy Learning and Language Modeling https://arxiv.org/abs/2306.09200 
 10. Human-aligned Chess with a Bit of Search https://arxiv.org/abs/2410.03893 
+11. Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task https://arxiv.org/pdf/2210.13382
+12. 
 
 ## Good Papers
 ### Nice "old"  paper

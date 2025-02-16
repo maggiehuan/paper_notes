@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepSeek_R1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepSeek_R1"
+              "title": "README"
             }
           }
         ],
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +192,10 @@
   },
   "active": "0539737acb49b816",
   "lastOpenFiles": [
-    "README.md",
-    "DeepSeek_R1.md",
-    "Good Papers/CIS6300/s1 Simple test-time scaling.md",
     "Welcome.md",
+    "DeepSeek_R1.md",
+    "README.md",
+    "Good Papers/CIS6300/s1 Simple test-time scaling.md",
     "ChessAI/Transcendence Generative Models Can Outperform The Experts That Train Them.md",
     "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
     "ChessAI/Skill in Chess.md",
