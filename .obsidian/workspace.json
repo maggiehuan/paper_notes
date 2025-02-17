@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emergent World Representations Exploring a Sequence Model Trained on a Synthetic Task.md",
+                "file": "ChessAI/Emergent World Representations Exploring a Sequence Model Trained on a Synthetic Task.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,12 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a3254a004ea7215",
+  "active": "0a41fdfbf60e21f7",
   "lastOpenFiles": [
     "README.md",
-    "Emergent World Representations Exploring a Sequence Model Trained on a Synthetic Task.md",
+    "ChessAI/Emergent World Representations Exploring a Sequence Model Trained on a Synthetic Task.md",
     "Welcome.md",
-    "DeepSeek_R1.md",
+    "Good Papers/CIS6300/DeepSeek_R1.md",
     "Good Papers/CIS6300/s1 Simple test-time scaling.md",
     "ChessAI/Transcendence Generative Models Can Outperform The Experts That Train Them.md",
     "ChessAI/The Chess Transformer Mastering Play using Generative Language Models.md",
