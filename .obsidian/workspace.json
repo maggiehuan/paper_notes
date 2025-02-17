@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a3254a004ea7215",
+  "active": "eca5ca9ce9fdf3b9",
   "lastOpenFiles": [
     "README.md",
     "Emergent World Representations Exploring a Sequence Model Trained on a Synthetic Task.md",
