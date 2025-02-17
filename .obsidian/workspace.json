@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a41fdfbf60e21f7",
+  "active": "1a3254a004ea7215",
   "lastOpenFiles": [
     "README.md",
     "ChessAI/Emergent World Representations Exploring a Sequence Model Trained on a Synthetic Task.md",
