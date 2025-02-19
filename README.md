@@ -57,5 +57,6 @@ W/o notes:
 - LIMA: Less Is More for Alignment https://arxiv.org/abs/2305.11206
 - Scaling Data-Constrained Language Models https://arxiv.org/pdf/2305.16264
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning  https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
+- BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language https://aclanthology.org/2021.conll-1.49.pdf
 - 
 
