@@ -1,0 +1,2 @@
+This paper presents LLM.int8(), a new method for Int8 matrix multiplication specifically designed for transformer models. It significantly lowers memory usage during inference while keeping full precision performance. The main idea is to quantize the feed-forward and attention projection layers to 8-bit, which reduces memory needs by half. LLM.int8() also solves challenges related to quantization precision in large-scale models and directly handles the problem of outlier features that appear in transformer layers.
+
