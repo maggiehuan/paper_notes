@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChessGPT Bridging Policy Learning and Language Modeling"
+              "title": "README"
+            }
+          },
+          {
+            "id": "164fddd43998aabd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Good Papers/CIS6300/GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a41fdfbf60e21f7",
+  "active": "164fddd43998aabd",
   "lastOpenFiles": [
+    "README.md",
+    "Good Papers/CIS6300/GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale.md",
+    "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
     "ChessAI/Complete Chess Games Enable LLM Become A Chess Master.md",
     "ChessAI/Emergent World Representations Exploring a Sequence Model Trained on a Synthetic Task.md",
     "ChessAI/Transcendence Generative Models Can Outperform The Experts That Train Them.md",
@@ -185,8 +203,6 @@
     "ChessAI/Mastering Chess with a Transformer Model.md",
     "ChessAI/Grandmaster-Level Chess Without Search.md",
     "ChessAI/Evidence of Learned Look-Ahead in a Chess-Playing Neural Network.md",
-    "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
-    "README.md",
     "Good Papers/CIS6300/DeepSeek_R1.md",
     "Good Papers/CIS6300/Rethinking the Role of Demonstrations What Makes In-Context Learning Work?.md",
     "Good Papers/CIS6300/BabyBert.md",
@@ -203,7 +219,6 @@
     "Good Papers/CIS6300",
     "Planning/Expertise increases planning depth in human gameplay.md",
     "create a link.md",
-    "Good Papers/Interesting Papers/Using games to understand the mind.md",
     "Good Papers/Interesting Papers",
     "Good Papers/Machine Learning",
     "Good Papers/NLP",
