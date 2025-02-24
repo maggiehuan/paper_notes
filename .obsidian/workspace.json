@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0539737acb49b816",
+  "active": "0a41fdfbf60e21f7",
   "lastOpenFiles": [
     "ChessAI/Complete Chess Games Enable LLM Become A Chess Master.md",
     "ChessAI/Emergent World Representations Exploring a Sequence Model Trained on a Synthetic Task.md",
@@ -190,7 +189,7 @@
     "README.md",
     "Good Papers/CIS6300/DeepSeek_R1.md",
     "Good Papers/CIS6300/Rethinking the Role of Demonstrations What Makes In-Context Learning Work?.md",
-    "BabyBert.md",
+    "Good Papers/CIS6300/BabyBert.md",
     "Good Papers/CIS6300/s1 Simple test-time scaling.md",
     "Good Papers/CIS6300/Scaling Data-Constrained Language Models.md",
     "Welcome.md",
