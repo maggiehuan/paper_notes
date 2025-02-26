@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale"
             }
+          },
+          {
+            "id": "41a98527ad69941e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Good Papers/NLP/Annotated Transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Annotated Transformer"
+            }
           }
         ],
         "currentTab": 1
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7ff5ac28a576a5b9",
@@ -193,8 +208,10 @@
   },
   "active": "164fddd43998aabd",
   "lastOpenFiles": [
-    "Good Papers/NLP/Annotated Transformer.md",
     "README.md",
+    "Good Papers/NLP/Annotated Transformer.md",
+    "Good Papers/NLP/Attention, Intentions, and the Structure of Discourse.md",
+    "Intriguing Properties of Quantization at Scale.md",
     "Good Papers/CIS6300/GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale.md",
     "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
     "ChessAI/Complete Chess Games Enable LLM Become A Chess Master.md",
@@ -217,9 +234,7 @@
     "Good Papers/CIS6300/How Many Data Points is a Prompt Worth.md",
     "Good Papers/CIS6300/It’s Not Just Size That Matters Small Language Models Are Also Few-Shot Learners.md",
     "Good Papers/CIS6300/Language Models are Few-Shot Learners.md",
-    "Good Papers/Interesting Papers/Better & Faster Large Language Models via Multi-token Prediction.md",
     "Good Papers/CIS6300",
-    "Planning/Expertise increases planning depth in human gameplay.md",
     "Good Papers/Interesting Papers",
     "Good Papers/Machine Learning",
     "Good Papers/NLP",

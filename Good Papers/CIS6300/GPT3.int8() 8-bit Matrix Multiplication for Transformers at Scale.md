@@ -4,3 +4,5 @@ The most influential part might be showing how to apply 8-bit arithmetic to larg
 
 I think I'm still confused about the phrase transition part. Would be nice if we can discuss a bit more on this.
 
+
+
