@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "164fddd43998aabd",
+  "active": "eca5ca9ce9fdf3b9",
   "lastOpenFiles": [
+    "Good Papers/NLP/Annotated Transformer.md",
     "README.md",
     "Good Papers/CIS6300/GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale.md",
     "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
@@ -219,7 +219,6 @@
     "Good Papers/Interesting Papers/Better & Faster Large Language Models via Multi-token Prediction.md",
     "Good Papers/CIS6300",
     "Planning/Expertise increases planning depth in human gameplay.md",
-    "create a link.md",
     "Good Papers/Interesting Papers",
     "Good Papers/Machine Learning",
     "Good Papers/NLP",
