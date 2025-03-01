@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,13 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "164fddd43998aabd",
+  "active": "41a98527ad69941e",
   "lastOpenFiles": [
+    "Good Papers/CIS6300/GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale.md",
     "README.md",
     "Good Papers/NLP/Annotated Transformer.md",
     "Good Papers/NLP/Attention, Intentions, and the Structure of Discourse.md",
     "Intriguing Properties of Quantization at Scale.md",
-    "Good Papers/CIS6300/GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale.md",
     "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
     "ChessAI/Complete Chess Games Enable LLM Become A Chess Master.md",
     "ChessAI/Emergent World Representations Exploring a Sequence Model Trained on a Synthetic Task.md",
