@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eca5ca9ce9fdf3b9",
+  "active": "287fd39a63509d4b",
   "lastOpenFiles": [
     "README.md",
     "The case for 4-bit precision k-bit Inference Scaling Laws.md",
