@@ -59,5 +59,6 @@ W/o notes:
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning  https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
 - BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language https://aclanthology.org/2021.conll-1.49.pdf
 - GPT3.int8(): 8-bit Matrix Multiplication for Transformers at Scale https://openreview.net/forum?id=dXiGWqBoxaD
+- The case for 4-bit precision: k-bit Inference Scaling Laws https://arxiv.org/pdf/2212.09720
 - 
 
