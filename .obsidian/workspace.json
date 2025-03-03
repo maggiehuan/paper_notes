@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "164fddd43998aabd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Good Papers/CIS6300/GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale"
-            }
-          },
-          {
-            "id": "41a98527ad69941e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Good Papers/NLP/Annotated Transformer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Annotated Transformer"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,11 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41a98527ad69941e",
+  "active": "0539737acb49b816",
   "lastOpenFiles": [
     "Good Papers/CIS6300/GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale.md",
-    "README.md",
     "Good Papers/NLP/Annotated Transformer.md",
+    "README.md",
     "Good Papers/NLP/Attention, Intentions, and the Structure of Discourse.md",
     "Intriguing Properties of Quantization at Scale.md",
     "ChessAI/ChessGPT Bridging Policy Learning and Language Modeling.md",
