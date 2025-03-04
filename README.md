@@ -3,6 +3,7 @@ All the paper and its link will be added here. And notes are in the files. Most 
 
 ## Planning - from Jan 1, 2025
 1. Expertise increases planning depth in human gameplay https://www.nature.com/articles/s41586-023-06124-2 [[Expertise increases planning depth in human gameplay]]
+2. Evaluating Cognitive Maps and planning in Large Language Models with CogEval https://openreview.net/pdf?id=VtkGvGcGe3 
 
 ## Chess with AI - from Jan 1, 2025
 1. [[Amortized Planning with Large-Scale Transformers A Case Study on Chess]],  https://arxiv.org/abs/2402.04494,

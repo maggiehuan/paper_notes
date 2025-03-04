@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The case for 4-bit precision k-bit Inference Scaling Laws.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The case for 4-bit precision k-bit Inference Scaling Laws"
+              "title": "README"
             }
           }
         ],
@@ -191,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "287fd39a63509d4b",
+  "active": "0a41fdfbf60e21f7",
   "lastOpenFiles": [
+    "Good Papers/CIS6300/The case for 4-bit precision k-bit Inference Scaling Laws.md",
     "README.md",
-    "The case for 4-bit precision k-bit Inference Scaling Laws.md",
     "Welcome.md",
     "Good Papers/CIS6300/GPT3.int8() 8-bit Matrix Multiplication for Transformers at Scale.md",
     "Good Papers/NLP/Annotated Transformer.md",
