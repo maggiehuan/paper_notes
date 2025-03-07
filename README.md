@@ -5,6 +5,9 @@ All the paper and its link will be added here. And notes are in the files. Most 
 1. Expertise increases planning depth in human gameplay https://www.nature.com/articles/s41586-023-06124-2 [[Expertise increases planning depth in human gameplay]]
 2. Evaluating Cognitive Maps and planning in Large Language Models with CogEval https://openreview.net/pdf?id=VtkGvGcGe3 
 
+## Reasoning - from Mar 6, 2025
+Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning? https://arxiv.org/pdf/2502.19361 
+
 ## Chess with AI - from Jan 1, 2025
 1. [[Amortized Planning with Large-Scale Transformers A Case Study on Chess]],  https://arxiv.org/abs/2402.04494,
 2. [[The Chess Transformer Mastering Play using Generative Language Models]] https://arxiv.org/pdf/2008.04057
