@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,9 +217,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eca5ca9ce9fdf3b9",
+  "active": "0a41fdfbf60e21f7",
   "lastOpenFiles": [
-    "Pasted image 20250314135020.png",
+    "Reasoning/data/Pasted image 20250314135020.png",
     "Reasoning/data/Pasted image 20250314134639.png",
     "Untitled.md",
     "Reasoning/data",
