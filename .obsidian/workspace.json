@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
+                "file": "Reasoning/DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
                 "mode": "source",
                 "source": false
               },
@@ -204,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "818aacb890262e4b",
+  "active": "eca5ca9ce9fdf3b9",
   "lastOpenFiles": [
     "Reasoning/Can Large Language Models Detect Errors in LongChain-of-Thought Reasoning?.md",
-    "DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
+    "Reasoning/DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
     "README.md",
     "Reasoning",
     "Good Papers/CIS6300/The case for 4-bit precision k-bit Inference Scaling Laws.md",
