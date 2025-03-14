@@ -11,3 +11,4 @@ This figure is also interesting:
 
 math training will actually decrease the ability for code generation. Aligns with our observation. 
 ![[Pasted image 20250314135020.png]]
+Why is data training on Math improve MMLU? What is exactly "general training here"? Is it fair to constrains data to similar training tokens? 
