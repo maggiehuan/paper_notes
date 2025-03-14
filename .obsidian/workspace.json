@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "818aacb890262e4b",
+  "active": "eca5ca9ce9fdf3b9",
   "lastOpenFiles": [
+    "Pasted image 20250314134045.png",
     "Reasoning/Can Large Language Models Detect Errors in LongChain-of-Thought Reasoning?.md",
     "Reasoning/DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
     "README.md",
@@ -233,7 +233,6 @@
     "Good Papers/CIS6300/Scaling Data-Constrained Language Models.md",
     "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
     "Good Papers/CIS6300/LIMA Less Is More for Alignment.md",
-    "Good Papers/CIS6300/Larger language models do in-context learning differently.md",
     "Good Papers/CIS6300",
     "Good Papers/Interesting Papers",
     "Good Papers/Machine Learning",
