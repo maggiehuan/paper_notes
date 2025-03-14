@@ -60,9 +60,23 @@
               "icon": "lucide-file",
               "title": "DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models"
             }
+          },
+          {
+            "id": "13f403c1ccf0bf42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reasoning/Qwen2.5-Coder Technical Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qwen2.5-Coder Technical Report"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,12 +232,13 @@
   },
   "active": "0a41fdfbf60e21f7",
   "lastOpenFiles": [
+    "Reasoning/DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
+    "Reasoning/Qwen2.5-Coder Technical Report.md",
     "Reasoning/data/Pasted image 20250314135020.png",
     "Reasoning/data/Pasted image 20250314134639.png",
     "Untitled.md",
     "Reasoning/data",
     "Reasoning/data/Pasted image 20250314134045.png",
-    "Reasoning/DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
     "Reasoning/Can Large Language Models Detect Errors in LongChain-of-Thought Reasoning?.md",
     "README.md",
     "Reasoning",
