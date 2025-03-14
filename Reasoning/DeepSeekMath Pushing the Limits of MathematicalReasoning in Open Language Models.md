@@ -9,3 +9,4 @@ DeepSeekMath-Base is initialized with DeepSeek-Coder-Base-v1.5 7B (Guo et al., 2
 This figure is also interesting:
 ![[Pasted image 20250314134639.png]]
 
+math training will actually decrease the ability for code generation. Aligns with our observation. 
