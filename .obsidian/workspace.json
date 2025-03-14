@@ -216,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a41fdfbf60e21f7",
+  "active": "13f403c1ccf0bf42",
   "lastOpenFiles": [
     "Reasoning/DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
     "Reasoning/Qwen2.5-Coder Technical Report.md",
