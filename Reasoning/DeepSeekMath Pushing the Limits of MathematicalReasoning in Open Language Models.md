@@ -10,3 +10,4 @@ This figure is also interesting:
 ![[Pasted image 20250314134639.png]]
 
 math training will actually decrease the ability for code generation. Aligns with our observation. 
+![[Pasted image 20250314135020.png]]
