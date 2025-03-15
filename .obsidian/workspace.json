@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "818aacb890262e4b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Reasoning/data/Pasted image 20250314134045.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250314134045"
-            }
-          },
-          {
             "id": "c8411f5066133563",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,16 +218,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13f403c1ccf0bf42",
+  "active": "c8411f5066133563",
   "lastOpenFiles": [
-    "Reasoning/DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
+    "Reasoning/Can Large Language Models Detect Errors in LongChain-of-Thought Reasoning?.md",
+    "Reasoning/data/Pasted image 20250314134045.png",
     "Reasoning/Qwen2.5-Coder Technical Report.md",
+    "Reasoning/DeepSeekMath Pushing the Limits of MathematicalReasoning in Open Language Models.md",
     "Reasoning/data/Pasted image 20250314135020.png",
     "Reasoning/data/Pasted image 20250314134639.png",
     "Untitled.md",
     "Reasoning/data",
-    "Reasoning/data/Pasted image 20250314134045.png",
-    "Reasoning/Can Large Language Models Detect Errors in LongChain-of-Thought Reasoning?.md",
     "README.md",
     "Reasoning",
     "Good Papers/CIS6300/The case for 4-bit precision k-bit Inference Scaling Laws.md",
@@ -263,7 +250,6 @@
     "Good Papers/CIS6300/BabyBert.md",
     "Good Papers/CIS6300/s1 Simple test-time scaling.md",
     "Good Papers/CIS6300/Scaling Data-Constrained Language Models.md",
-    "ChessAI/Amortized Planning with Large-Scale Transformers A Case Study on Chess.md",
     "Good Papers/CIS6300",
     "Good Papers/Interesting Papers",
     "Good Papers/Machine Learning",
